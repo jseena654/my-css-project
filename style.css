@@ -1,0 +1,17 @@
+.red-border {
+    border: 0.1rem solid red;
+}
+
+#navbar {
+    margin-bottom: 1rem;
+}
+
+#main {
+    display: grid;
+    grid-template-columns: 20% 60% 20%;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    
+}
